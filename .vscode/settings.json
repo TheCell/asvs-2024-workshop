@@ -1,10 +1,4 @@
 {
-  "workbench.colorCustomizations": {
-    "activityBar.background": "#f20505",
-    "titleBar.activeBackground": "#850404",
-    "statusBar.background": "#920303",
-    "titleBar.activeForeground": "#ffffff",
-  },
   "yaml.customTags": [
     "!reference sequence"
  ]
